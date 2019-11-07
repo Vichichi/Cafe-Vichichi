@@ -1,2 +1,2 @@
 # Cafe-Vichichi
-A project of a Teaser for my own game.
+A teaser for a Game. It's about a Cafe.
